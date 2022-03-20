@@ -1,0 +1,127 @@
+what version control system?
+----------------------------
+	the process of store/maintain and manage the changes in the source code with whom,why and when details.
+
+	version control system(VCS) is also known as a Source code management(SCM)
+
+types of version control systems:
+---------------------------------
+1).local version control system
+
+2).centralized version control system
+
+3).distributed version control system
+
+
+how to download git?
+--------------------
+	https://git-scm.com/downloads
+
+how to install git?
+-------------------
+	double click on git downloaded file
+		|
+	click on yes
+		|
+	click on next
+		|
+	select installation location and click on next
+		|
+	click on next
+		|
+	choose start menu folder name and click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on next
+		|
+	click on install
+		|
+	click on finish
+
+what is Github?
+---------------
+	Github is a Remote Hosting Repository service.
+
+to ctreate an account in the github
+
+sign in your account
+
+create new repository
+
+working with git:
+------------------
+
+how to clone repository from github to local computer?
+
+   git clone https://github.com/divyakola/gitdemoclass.git
+
+how to initialize the local repository?
+---------------------------------------
+	git init
+
+create a README.md file?
+------------------------
+	README.md
+	---------
+#git demo project class
+
+
+how to add the files from local to stageing area?
+--------------------------------------------------
+	git add .
+
+	(or)
+
+	git add filename
+
+how to commit?
+-------------
+	git commit -m "message"
+
+how to change the main baranch?
+-------------------------------
+ git branch -M main
+
+how to add remote repository into local?
+----------------------------------------
+ git remote add origin https://github.com/divyakola/democlass2.git
+
+how to push from local to remote?
+--------------------------------
+git push -u origin main
+
+how to get modifications information?
+-------------------------------------
+	git log
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
